@@ -9,7 +9,7 @@ void push()
 
 	if(top == max -1)
 	{
-		printf("\nStack is OverFlow ! \n");
+		printf("\nStack is OverFlow bhai khali kr de! \n");
 	}
 	else
 
